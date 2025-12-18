@@ -1,7 +1,7 @@
 <h1 align="center">ORION Intelligence</h1>
 
 <p align="center">
-  <img src="[https://example.com/logo.png](https://play-lh.googleusercontent.com/U1iBmYkvmvH0_oKWjrmty52b0STywgbFi7de45H4Lcc2dqyzVVGQjkcwBu-6Zp5NOAw)" alt="Project Logo" width="200"/>
+  <img src="images/logo.png" alt="Project Logo" width="200"/>
 </p>
 
 <p align="center">
